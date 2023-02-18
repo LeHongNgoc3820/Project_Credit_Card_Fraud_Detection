@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection using Machine Learning Algorithms
 ______
-**Detail:** [Here](https://github.com/LeHongNgoc3820/Project_Company_Bankruptcy_Prediction/blob/main/Company_Bankruptcy_Prediction.ipynb)
+**Detail:** [Here](https://github.com/LeHongNgoc3820/Project_Credit_Card_Fraud_Detection/blob/main/Credit%20Card%20Fraud%20Detection.ipynb)
 
 **Conclusions:**
 
@@ -10,7 +10,7 @@ After comparing between the models, the results were found as follows:
 + The topic uses Machine Learning models to come up with the best model to Credit Card Fraud Detection.
 + The best model given is **Logistic Regression Model**.
 + Accuracy of best model is **99.92%**.
-+ ROC of best model is 97.82%.
++ ROC of best model is **97.82%**.
     
 ______
 **You can contact with me on:**
