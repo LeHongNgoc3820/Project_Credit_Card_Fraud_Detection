@@ -9,9 +9,10 @@ The rise of IoT technologies and data-driven finance seriously influences the da
 After comparing between the models, the results were found as follows:
 + The topic uses Machine Learning models to come up with the best model to Credit Card Fraud Detection.
 + The best model given is **Logistic Regression Model**.
-+ Accuracy of best model is **99.92%**.
-+ ROC of best model is **97.82%**.
-    
++ Accuracy of best model is **97,29%**.
++ ROC of best model is **97,69%**.
+   
+ More details for results: [Here]()
 ______
 **You can contact with me on:**
 + **Gmail**: lehongngoc.work@gmail.com
