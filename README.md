@@ -12,7 +12,7 @@ After comparing between the models, the results were found as follows:
 + Accuracy of best model is **97,29%**.
 + ROC of best model is **97,69%**.
    
- More details for results: [Here]()
+ More details for results: [Here](https://github.com/LeHongNgoc3820/Project_Credit_Card_Fraud_Detection/blob/main/reusults.pdf)
 ______
 **You can contact with me on:**
 + **Gmail**: lehongngoc.work@gmail.com
